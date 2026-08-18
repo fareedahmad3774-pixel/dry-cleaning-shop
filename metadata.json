@@ -1,0 +1,6 @@
+{
+  "name": "U.S.F Dry Cleaner",
+  "description": "A modern and professional dry cleaning shop website with interactive 3D animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
